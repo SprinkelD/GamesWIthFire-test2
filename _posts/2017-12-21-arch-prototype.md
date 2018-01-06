@@ -20,3 +20,5 @@ The system itself is composed of 3 microprocessors: one that reads the analog IR
 Here is a video explaining the setup and showing some of the initial test animations.
 
 <a href="https://youtu.be/b5WdR7Psenc" target="_blank" rel="noopener">Explanation Video</a>
+
+https://github.com/SprinkelD/GamesWithFire-test2
