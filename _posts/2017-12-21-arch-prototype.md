@@ -1,6 +1,6 @@
 ---
 ID: 1
-post_title: Archway Prototype Completed
+post_title: Arch Prototype Completed
 author: gameswithfire
 post_excerpt: ""
 layout: post
