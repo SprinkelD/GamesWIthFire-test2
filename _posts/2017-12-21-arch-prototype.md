@@ -13,7 +13,7 @@ We've completed the second prototype of the archway sensor and lights system. Fo
 
 <img class="alignleft size-full wp-image-490" src="http://games-with-fire.com/wp-content/uploads/2017/12/ArchwayPrototype2.jpg" alt="" width="1200" height="900" />
 
-p style="font-weight: bold; line-height: 2px; text-align: center;">Prototype with Lighting</p>
+<p style="font-weight: bold; line-height: 2px; text-align: center;">Prototype with Lighting</p>
 The system itself is composed of 3 microprocessors: one that reads the analog IR sensors, one that publishes the sensor data and calculates a fast fourier transform and one that controls the lights. We've gone with a very distributed IoT(Internet of Things) architecture this go round, where each feature is a small single function subsystem. This should allow for a very module composition of things and hopefully, make it easier to allow more programmers to be involved.
 
 <img class="alignleft size-full wp-image-491" src="http://games-with-fire.com/wp-content/uploads/2017/12/ArchwayPrototype1-1.jpg" alt="" width="1200" height="652" />
