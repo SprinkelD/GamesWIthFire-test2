@@ -1,6 +1,6 @@
 ---
 ID: 1
-post_title: Arch Prototype Completed
+post_title: ""
 author: gameswithfire
 post_excerpt: ""
 layout: post
