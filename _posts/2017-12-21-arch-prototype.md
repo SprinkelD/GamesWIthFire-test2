@@ -10,6 +10,7 @@ published: true
 post_date: 2017-12-21 15:49:09
 ---
 &nbsp;
+&nbsp;
 
 We've completed the second prototype of the archway sensor and lights system. For sensors, we've gone with 8 InfraRed sensors located above the participant. This gives us a nice understanding of what the user is doing and provides a form of multitouch input. Each Sepal will contain three of these in the archways. In the image below you can see the LED bars that will light the sides and top of the Sepal.
 <img class="alignleft size-full wp-image-490" src="http://games-with-fire.com/wp-content/uploads/2017/12/ArchwayPrototype2.jpg" alt="" width="1200" height="900" />
