@@ -1,6 +1,6 @@
 ---
 ID: 295
-post_title: About the Artists
+post_title: About
 author: gameswithfire
 post_excerpt: ""
 layout: page
