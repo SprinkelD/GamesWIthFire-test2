@@ -10,5 +10,18 @@ post_date: 2017-11-26 03:25:25
 ---
 <img class="alignleft size-full wp-image-414" src="http://localhost/wp-content/uploads/2017/12/HellaScopeFP08-e1513903590250.jpg" alt="" width="800" height="500" style= "margin:0px 0px 5px;"/><p class="project_desc">From left: Richie Meyer, Brice Reinhardt, Kyle Miller, Alan Hudson, Patty Buchanan, Mike Dodds</p>
 
+Mike Dodds: Custom control systems, light effects, programming, software command-and-control, system integration, fabrication, fire safety
 
-Mike’s areas of expertise include custom control systems and light effects. Mike’s microcontroller lighting solutions have been used in external Burning Man Projects (2011: Walkabout Woods) and individual lighting projects, and are available through Seattle Lumin. In 2012, Mike participated in the Flame Effects for the Artist workshop, led by Dave X (longtime BM Fire Safety Manager) and Propaniac (Chief Inspector for the State of Nevada Board for the Regulation of LP Gas). This has led to his interest in combining his proven skill set in art project control systems/lighting with flame effects. If anything works on the Simon project, it’s Mike’s fault.
+Richie Meyer: Programming, fabrication, fuel systems, fire control, fire safety, flame effects
+
+Brice Reinhardt: Fundraising,  project management, venue & camp setup, support camp lead
+
+Kyle Miller: CAD, fabrication, graphic design, concept art, and scaled prototypes
+
+Alan Hudson: Programming, grant writing, lighting systems, sensors, rapid 3-D prototyping
+
+Patty Buchanan: Coordination lead, camp infrastructure, budgetary control and tracking
+
+Chris Galvin(not pictured): Welding, fabrication, electronics 
+
+Alina Morris: Outreach, grant writing, social network management, puns
