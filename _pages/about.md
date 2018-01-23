@@ -17,5 +17,5 @@ post_date: 2017-11-26 03:25:25
 <li>Patty Buchanan: Coordination lead, camp infrastructure, budgetary control and tracking</li>
 <li>Mike Dodds: Custom control systems, light effects, programming, software command-and-control, system integration, fabrication, fire safety</li>
 <li>Chris Galvin(not pictured): Welding, fabrication, electronics</li> 
-<li>Alina Morris: Outreach, grant writing, social network management, puns</li>
+<li>Alina Morris(not pictured): Outreach, grant writing, social network management, puns</li>
 </ul>
