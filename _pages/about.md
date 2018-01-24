@@ -12,7 +12,7 @@ post_date: 2017-11-26 03:25:25
 <ul>
 <li><strong>Richie Meyer:</strong> Programming, fabrication, fuel systems, fire control, fire safety, flame effects</li>
 <li><strong>Brice Reinhardt:</strong> Fundraising,  project management, venue & camp setup, support camp lead</li>
-<li>K<strong>yle Miller: </strong>CAD, fabrication, graphic design, concept art, and scaled prototypes</li>
+<li><strong>Kyle Miller: </strong>CAD, fabrication, graphic design, concept art, and scaled prototypes</li>
 <li><strong>Alan Hudson:</strong> Programming, grant writing, lighting systems, sensors, rapid 3-D prototyping</li>
 <li><strong>Patty Buchanan:</strong> Coordination lead, camp infrastructure, budgetary control and tracking</li>
 <li><strong>Mike Dodds:</strong> Custom control systems, light effects, programming, software command-and-control, system integration, fabrication, fire safety</li>
