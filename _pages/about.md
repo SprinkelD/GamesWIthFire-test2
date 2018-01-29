@@ -15,8 +15,13 @@ post_date: 2017-11-26 03:25:25
 <p class="potluck_skills">Fundraising,  project management, venue & camp setup, support camp lead</p>
 <strong>Kyle Miller: </strong>
 <p class="potluck_skills">CAD, fabrication, graphic design, concept art, and scaled prototypes</p>
-<strong>Alan Hudson:</strong> Programming, grant writing, lighting systems, sensors, rapid 3-D prototyping
-<strong>Patty Buchanan:</strong> Coordination, camp infrastructure, budgetary control and tracking
-<strong>Mike Dodds:</strong> Custom control systems, light effects, programming, software command-and-control, system integration, fabrication, fire safety
-<strong>Chris Galvin(not pictured):</strong> Welding, fabrication, electronics
-<strong>Alina Morris(not pictured):</strong> Outreach, grant writing, social network management, puns</p>
+<strong>Alan Hudson:</strong> 
+<p class="potluck_skills">Programming, grant writing, lighting systems, sensors, rapid 3-D prototyping</p>
+<strong>Patty Buchanan:</strong> 
+<p class="potluck_skills">Coordination, camp infrastructure, budgetary control and tracking</p>
+<strong>Mike Dodds:</strong> 
+<p class="potluck_skills">Custom control systems, light effects, programming, software command-and-control, system integration, fabrication, fire safety</p>
+<strong>Chris Galvin(not pictured):</strong> 
+<p class="potluck_skills">Welding, fabrication, electronics</p>
+<strong>Alina Morris(not pictured):</strong> 
+<p class="potluck_skills">Outreach, grant writing, social network management, puns</p>
