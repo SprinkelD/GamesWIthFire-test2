@@ -9,7 +9,7 @@ published: true
 post_date: 2017-11-26 03:25:25
 ---
 <img class="alignleft size-full wp-image-414" src="http://localhost/wp-content/uploads/2017/12/HellaScopeFP08-e1513903590250.jpg" alt="" width="800" height="500" style= "margin:0px 0px 5px;"/><p class="about_potluck">From left: Richie Meyer, Brice Reinhardt, Kyle Miller, Alan Hudson, Patty Buchanan, Mike Dodds</p>
-<strong style= "margin:0px 0px 5px;">Richie Meyer:</strong> 
+<p style= "margin:0px 0px 5px;">Richie Meyer:</p> 
 <p class="potluck_skills">Programming, fabrication, fuel systems, fire control, fire safety, flame effects</p>
 <strong>Brice Reinhardt:</strong> 
 <p class="potluck_skills">Fundraising,  project management, venue & camp setup, support camp lead</p>
