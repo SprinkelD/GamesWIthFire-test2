@@ -15,6 +15,6 @@ post_date: 2017-11-26 03:25:25
 <p class="potluck_skills"><strong>Kyle Miller: </strong>CAD, fabrication, graphic design, concept art, and scaled prototypes</p>
 <p class="potluck_skills"><strong>Alan Hudson:</strong> Programming, grant writing, lighting systems, sensors, rapid 3-D prototyping</p>
 <p class="potluck_skills"><strong>Patty Buchanan:</strong> Coordination, camp infrastructure, budgetary control and tracking</p>
-<p class="potluck_skills"><strong>Mike Dodds:</strong> Custom control systems, light effects, programming, software command-and-control, system integration, fabrication, fire</p> safety
+<p class="potluck_skills"><strong>Mike Dodds:</strong> Custom control systems, light effects, programming, software command-and-control, system integration, fabrication, fire< safety</p>
 <p class="potluck_skills"><strong>Chris Galvin(not pictured):</strong> Welding, fabrication, electronics</p>
 <p class="potluck_skills"><strong>Alina Morris(not pictured):</strong> Outreach, grant writing, social network management, puns</p>
