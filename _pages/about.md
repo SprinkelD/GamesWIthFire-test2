@@ -8,9 +8,9 @@ permalink: http://localhost/about/
 published: true
 post_date: 2017-11-26 03:25:25
 ---
-<img class="alignleft size-full wp-image-414" src="http://localhost/wp-content/uploads/2017/12/HellaScopeFP08-e1513903590250.jpg" alt="" width="800" height="500" style= "margin:0px 0px 5px;"/><p class="about_desc">From left: Richie Meyer, Brice Reinhardt, Kyle Miller, Alan Hudson, Patty Buchanan, Mike Dodds</p>
+<img class="alignleft size-full wp-image-414" src="http://localhost/wp-content/uploads/2017/12/HellaScopeFP08-e1513903590250.jpg" alt="" width="800" height="500" style= "margin:0px 0px 5px;"/><p class="about_potluck">From left: Richie Meyer, Brice Reinhardt, Kyle Miller, Alan Hudson, Patty Buchanan, Mike Dodds</p>
 
-<strong>Richie Meyer:</strong> Programming, fabrication, fuel systems, fire control, fire safety, flame effects
+<p class="<strong>Richie Meyer:</strong> Programming, fabrication, fuel systems, fire control, fire safety, flame effects
 <strong>Brice Reinhardt:</strong> Fundraising,  project management, venue & camp setup, support camp lead
 <strong>Kyle Miller: </strong>CAD, fabrication, graphic design, concept art, and scaled prototypes
 <strong>Alan Hudson:</strong> Programming, grant writing, lighting systems, sensors, rapid 3-D prototyping
